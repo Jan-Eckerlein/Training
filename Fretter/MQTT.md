@@ -4,8 +4,6 @@ Beschreiben Sie den Ablauf der MQTT-Kommunikation, der durch die folgende Abbild
 
 ![](C:\Users\janec\AppData\Roaming\marktext\images\2022-10-27-12-31-54-image.png)
 
-
-
 ### Lösung:
 
 - Client A verbindet sich mit dem Broker
@@ -19,5 +17,3 @@ Beschreiben Sie den Ablauf der MQTT-Kommunikation, der durch die folgende Abbild
 - Client B Published ein Paket im `temperature/roof`, was der Broker an Client A schickt.
 
 - Client A bricht die Verbindung mit dem Broker ab
-
-
