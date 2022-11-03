@@ -9,8 +9,6 @@ Produktes oder einer Dienstleistung vom Hersteller zum Endkunden
 betreffen. Alle Maßnahmen und Entscheidungen die den Vertriebsweg und 
 die Vertriebsart tangieren sind in der **Distributionspolitik** zusammengefasst.
 
-
-
 ### B) "Direkter Absatz" & "Indirekter Absatz"
 
 Beim **direkten Absatz** wird der Verkauf von Produkten über einen oder mehrere Absatzmittler abgewickelt. Beim **indirekten Absatz** wird der Verkauf von Produkten über einen oder mehrere Absatzmittler abgewickelt.
@@ -41,10 +39,6 @@ Beim **direkten Absatz** wird der Verkauf von Produkten über einen oder mehrere
   
   - Exporteur
 
-
-
-
-
 ### D) Vor- und Nachteile des indirekten Absatz gegenüber dem direkten Absatz
 
 - #### Vorteile
@@ -56,16 +50,22 @@ Beim **direkten Absatz** wird der Verkauf von Produkten über einen oder mehrere
   - Der Händler verfügt über einen Kundenstamm, der dem Anbieter somit zur Verfügung steht.
   
   - Beim indirekten Absatz entfällt der Aufbau einer eigenen Vertriebsinfrastruktur, sodass diesbezüglich keine [Investitionen](https://www.bwl-lexikon.de/wiki/investitionen-investitionsarten/) notwendig sind.
+  
   - Die Aufteilung der 
     Produktions- und Distributionsfunktion zwischen Händler und 
     Absatzmittler führt aufgrund des unterschiedlichen Know-hows zu einer 
     Spezialisierung, wodurch Kosten gesenkt werden können.
+  
   - Der Handel verfügt über die besseren Marktkenntnisse, wovon der Hersteller profitieren kann.
+  
   - Der Absatzmittler übernimmt die Konfektionierung der Produkte in kleinere Verkaufseinheiten.
+  
   - Für den Hersteller 
     sind beim indirekten Absatz die Anforderungen an die Logistik geringer, 
     wie wenn er selbst Endkunden beliefern müsste.
+  
   - Der Hersteller hat es mit einer beschränkten Anzahl von Kunden, nämlich den Absatzmittlern zu tun.
+  
   - Der Verkauf der Produkte an die Absatzmittler erfolgt in Großgebinden.
 
 - #### Nachteile
@@ -88,8 +88,6 @@ Beim **direkten Absatz** wird der Verkauf von Produkten über einen oder mehrere
      Absatzmittlern besteht für Hersteller die Gefahr, dass sie von ihnen 
     abhängig werden und nur noch als ausführende Lieferanten fungieren.
 
-
-
 ## Aufgabe 2
 
 ### A)
@@ -105,8 +103,6 @@ $$
 $$
 P_{Reisender} < P_{Vertreter}
 $$
-
-
 
 ### B)
 
