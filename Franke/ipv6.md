@@ -39,7 +39,6 @@ a-->|4 subnetzte|c(2bit)
 c-->|präfix ausrechnen|d(/53)
 ```
 
-
 ## Aufgabe 2
 
 ```mermaid
@@ -48,7 +47,8 @@ graph TD;
 a(3FFA:FF2B:4D:A000::/51)
 a-->|ausschreiben|b(3FFA:FF2B:004D:A000:0000:0000/51)
 a-->|bitzahl für 16 subnets|c(4 bit)
-b-->|grenzbereich ermitteln|d(3FFA:FF2B:004D:<mark>A0</mark>00:0000:0000)
+b-->d(3FFA:FF2B:004D:<mark>A0</mark>00:0000:0000)
+c-->d
 d-->e(A0)
 e-->|ausschreiben|f(101<mark>0 000</mark>0)
 f-->|variationen|g(000<mark>0 000</mark>0  -  00<br>000<mark>0 001</mark>0  -  02<br>000<mark>0 010</mark>0  -  04<br>000<mark>0 011</mark>0  -  06<br>000<mark>0 100</mark>0  -  08<br>000<mark>0 101</mark>0  -  0A<br>000<mark>0 110</mark>0  -  0C<br>000<mark>0 111</mark>0  -  0E<br>000<mark>1 000</mark>0  -  10<br>000<mark>1 001</mark>0  -  12<br>000<mark>1 010</mark>0  -  14<br>000<mark>1 011</mark>0  -  16<br>000<mark>1 100</mark>0  -  18<br>000<mark>1 101</mark>0  -  1A<br>000<mark>1 110</mark>0  -  1C<br>000<mark>1 111</mark>0  -  1E)
