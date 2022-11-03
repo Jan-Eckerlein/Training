@@ -40,31 +40,6 @@ c-->|präfix ausrechnen|d(/53)
 ```
 
 
-|Binär                  |Hex |
-|-----------------------|----|
-|000<mark>0 000</mark>0 | 00 |
-|000<mark>0 001</mark>0 | 02 |
-|000<mark>0 010</mark>0 | 04 |
-|000<mark>0 011</mark>0 | 06 |
-|000<mark>0 100</mark>0 | 08 |
-|000<mark>0 101</mark>0 | 0A |
-|000<mark>0 110</mark>0 | 0C |
-|000<mark>0 111</mark>0 | 0E |
-|000<mark>1 000</mark>0 | 10 |
-|000<mark>1 001</mark>0 | 12 |
-|000<mark>1 010</mark>0 | 14 |
-|000<mark>1 011</mark>0 | 16 |
-|000<mark>1 100</mark>0 | 18 |
-|000<mark>1 101</mark>0 | 1A |
-|000<mark>1 110</mark>0 | 1C |
-|000<mark>1 111</mark>0 | 1E |
-
-
-
-
-
-
-
 ## Aufgabe 2
 
 ```mermaid
