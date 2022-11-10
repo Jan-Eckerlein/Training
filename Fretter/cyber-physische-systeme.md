@@ -26,4 +26,6 @@
      
      - Bei einem Handschlag wird sowohl dem Absender bestätigt, dass die Nachricht angekommen ist, als auch dem Broker, dass der Empfänger die Bestätigung erhalten hat
 
-
+3. Beispiele:
+   
+   -  
