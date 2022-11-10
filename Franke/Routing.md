@@ -2,7 +2,7 @@
 
 ## 1. Szenario
 
-![]()
+![](images/routing_example_01.png)
 
 ## RTR1
 
@@ -22,7 +22,7 @@
 
 ## 2. Szenario
 
-![](C:\Users\janec\AppData\Roaming\marktext\images\2022-11-10-11-03-38-image.png)
+![](images/routing_example_02.png)
 
 | Netzwerkziel  | Netzwerkmaske   | Interface/Gateway |
 | ------------- | --------------- | ----------------- |
@@ -31,3 +31,7 @@
 | 192.168.1.128 | 255.255.255.128 | ETH2              |
 | 192.15.98.224 | 255.255.255.252 | ETH3              |
 | 0.0.0.0       | 0.0.0.0         | 202.15.98.226     |
+
+## 3. Szenario
+
+![](images/routing_example_03.png)
